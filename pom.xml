@@ -9,4 +9,6 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>mybatis</modules>
+    <modules>multi_data_source</modules>
+    <modules>rabbitmq</modules>
 </project>
